@@ -1,6 +1,12 @@
 # Mabo.Data.Collections
 
-A NoSQL Documents in local storage database service designed for Universal Windows Platform apps, querying through Linq. 
+A NoSQL Documents in local storage database service designed for Universal Windows Platform apps, querying through Linq.
+
+When using MDC (Mabo.Data.Collections) make sure you add this line
+
+```
+using Mabo.Data.Collections;
+```
 
 ## Creating a collection
 
